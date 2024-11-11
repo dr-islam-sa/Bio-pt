@@ -1,6 +1,7 @@
 # Bio-pt
-Open Source 3D Bioprinter
-Here's a detailed GitHub documentation template for your project, "Bio-PT," that covers everything from introduction to setup, usage, and contribution guidelines.
+Open Source 3D Bioprinter by Dr.Islam Salama 
+Linkedin [https://www.linkedin.com/in/dr-islam-sa/](#Linkedin)
+
 
 ---
 
