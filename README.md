@@ -62,7 +62,8 @@ Bio-PT operates using **Bio-Marlin**, a customized firmware derived from Marlin 
   - Customized extruder settings to allow fine-tuning of extrusion for bio-materials.
   - Reduced footprint on processing to work seamlessly with lower-cost boards.
 
-You can download Bio-Marlin from the [Firmware](#) folder in this repository.
+You can download Bio-Marlin from the [Firmware](#) folder in this repository : [Bio-Marlin V1.2 firmware](https://github.com/dr-islam-sa/Bio-Marline) — a modified version of Marlin tailored for bioprinting applications. Bio-Marlin focuses on enhanced control for bio-inks and optimized settings for 3D bioprinting needs.
+
 
 ---
 
