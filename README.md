@@ -1,6 +1,6 @@
 # Bio-pt
-Open Source 3D Bioprinter by Dr.Islam Salama 
-Linkedin [https://www.linkedin.com/in/dr-islam-sa/](#Linkedin)
+Open Source 3D Bioprinter by | Dr.Islam Salama 
+| Linkedin https://www.linkedin.com/in/dr-islam-sa
 
 
 ---
