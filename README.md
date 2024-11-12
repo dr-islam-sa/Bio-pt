@@ -73,9 +73,9 @@ You can download Bio-Marlin from the [Firmware](#) folder in this repository : [
 |-----------------------|----------|------------------------------------------------|
 | 3D Printed Frame      | 1 set    | All parts are printable using standard FDM printer |
 | CD-ROM Drive Motors   | 3        | Used for X, Y, and Z axes                      |
-| M3 x 6mm Fasteners    | Various  | Available from any hardware store              |
-| M4 x 4mm Fasteners    | Various  | Available from any hardware store              |
-| M3 x 6mm Fasteners    | Various  | Available from any hardware store              |
+| M3 x 6mm Fasteners    | 40       | Available from any hardware store              |
+| M4 x 4mm Fasteners    | 5        | Available from any hardware store              |
+| M3       Washers      | 15       | Available from any hardware store              |
 | RAMPS or MKS Board    | 1        | Open-source controller board                   |
 | S.Pump Lead Screw M6 X16cm | 1        | Indirect extruder system                       |
 
