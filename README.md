@@ -78,6 +78,9 @@ You can download Bio-Marlin from the [Firmware](#) folder in this repository : [
 | M3       Washers      | 15       | Available from any hardware store              |
 | RAMPS or MKS Board    | 1        | Open-source controller board                   |
 | S.Pump Lead Screw M6 X16cm | 1        | Indirect extruder system                       |
+| S.Pump NEMA 17        | 1        | Indirect extruder system                       |
+| S.Pump Lead Screw M6 X16cm | 1        | Indirect extruder system                       |
+| S.Pump Lead Screw M6 X16cm | 1        | Indirect extruder system                       |
 
 ---
 
@@ -94,6 +97,8 @@ You can download Bio-Marlin from the [Firmware](#) folder in this repository : [
   
 4. **Connect Electronics**:
    - Use the RAMPS or MKS board to connect motors and extruder. Follow the wiring diagram provided in the `Documentation` folder.
+  
+   - ## Please check assembly guid included with the files.
 
 ---
 
